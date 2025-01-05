@@ -1,7 +1,6 @@
 ### Hi there 👋
-- 👋 Hi, I’m Nam Nguyen
-- 👀 I’m interested in Machine Learning Operations. 
-- 🌱 I’m I'm passionate about machine learning problem, trading algorithm and building scalable, low-latency system
+- 👋 Hi, I’m Nam Nguyen 
+- 🌱 I'm passionate about machine learning problem, trading algorithm and building scalable, low-latency system
 - 📫 How to reach me at [namhn89](https://namhn89.github.io/)
 - 💬 Tech stack: Python and C++
 - ⚡ Hobbies: Traveling, Music
