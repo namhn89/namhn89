@@ -5,6 +5,7 @@
 - 📫 How to reach me at [namhn89](https://namhn89.github.io/)
 - 💬 Tech stack: Python and C++
 - ⚡ Hobbies: Traveling, Music
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 namhn89/namhn89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
